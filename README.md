@@ -21,6 +21,9 @@
 - Intersection
 - Difference
 - Matrix-Vector and Matrix-Matrix Multiplication
+- A-priori
+- Basket Analysis
+- Content Recommendation
 - Hashing
 - PageRank
 - Graphs
