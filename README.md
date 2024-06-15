@@ -22,6 +22,7 @@
 - Difference
 - Matrix-Vector and Matrix-Matrix Multiplication
 - A-priori
+- AdWords
 - Basket Analysis
 - Content Recommendation
 - Hashing
@@ -29,6 +30,7 @@
 - Graphs
 - Leader Election
 - Consensus
+
 
 ### 3. Systems
 - SaaS (Software as a Service)
